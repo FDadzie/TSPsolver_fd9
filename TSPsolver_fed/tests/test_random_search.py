@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from TSPsolver_fd9.algorithms.random_search import (
+from TSPsolver_fed.algorithms.random_search import (
     random_search,
     calculate_distance,
     generate_distance_matrix,
