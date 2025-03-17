@@ -18,4 +18,4 @@ classifiers = [
 ]
 
 [tool.setuptools]
-packages = ["tsp_solver_fed", "tsp_solver_fed.algorithms"]
+packages = ["TSPsolver_fed", "TSPsolver_fed.algorithms"]
