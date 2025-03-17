@@ -1,8 +1,8 @@
 import numpy as np
-from TSPsolver_fd9.algorithms.random_search import random_search
-from TSPsolver_fd9.algorithms.hill_climbing import hill_climbing
-from TSPsolver_fd9.algorithms.simulated_annealing import simulated_annealing, compute_distance_matrix
-from TSPsolver_fd9.algorithms.Asearch import astar_tsp
+from TSPsolver_fed.algorithms.random_search import random_search
+from TSPsolver_fed.algorithms.hill_climbing import hill_climbing
+from TSPsolver_fed.algorithms.simulated_annealing import simulated_annealing, compute_distance_matrix
+from TSPsolver_fed.algorithms.Asearch import astar_tsp
 
 if __name__ == "__main__":
     # Example list of cities as (x, y) coordinates.
